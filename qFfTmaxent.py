@@ -20,6 +20,11 @@
 # to the "Jar of rocks, pebbles and sand" principle, i.e., larger free volumes go first. Therefore, the positions of the minor element in content
 # are firstly optimized followed by the second and so on. The major element in content just fills the last remaining lattice positions.
 
+# HOW TO CITE  
+# If you use this script in your work, please cite:  
+# J.H. Mazo, C. Soares, G.K. Inui, M.F. de Oliveira, J.L.F. Da Silva, Materials Science and Engineering: A, 929 (2025), p. 148053  
+# https://doi.org/10.1016/j.msea.2025.148053  
+
 # Python packages needed:
 # ase: Atomic Simulation Environment (ASE) https://gitlab.com/ase/ase
 # spglib: Software library for crystal symmetry search (Spglib) https://atztogo.github.io/spglib/
