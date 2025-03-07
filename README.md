@@ -2,6 +2,11 @@
 
 Python scripts to produce supercells of high entropy alloys for DFT simulations.
 
+# How to cite
+If you use any of these scripts in your work, please cite:  
+J.H. Mazo, C. Soares, G.K. Inui, M.F. de Oliveira, J.L.F. Da Silva, Materials Science and Engineering: A, 929 (2025), p. 148053  
+https://doi.org/10.1016/j.msea.2025.148053
+
 ## mcmaxent.py
 The algorithm produces an initial supercell according to the input data (chemical formula, lattice and supercell size). 
 This initial supercell is randomily shuffled to maximize the global free volume of the elements by keeping, at the same time,
